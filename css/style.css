@@ -1,0 +1,19 @@
+.main-body{
+	border: 2px solid gray;
+	width: 90%;
+	margin: 60px;
+	padding: 20px;
+}
+.main a{
+	border: 2px solid red;
+	float: left;
+	background: blue;
+	height: 0 auto;
+	width: 100%;
+}
+.main b{
+	border: 2px solid red;
+	background: yellow;
+	height: 0 auto;
+	width: 100%;
+}
